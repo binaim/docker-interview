@@ -60,7 +60,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>docker-spring-interview</finalName>
+<!--        <finalName>docker-spring-interview</finalName>-->
     </build>
 
 </project>
